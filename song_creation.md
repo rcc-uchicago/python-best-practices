@@ -16,6 +16,7 @@ Blair Vorsatz
 Bowei Kang
 Brian Petersen
 Bryan Brickman
+Callista Christ
 Cassandra Manrique
 Chandler Haxton
 Curtis Zhuang
@@ -52,6 +53,7 @@ Letitia Ho
 Lin Gui
 Louise Heelan
 Louise Wang
+Luis Ibanez
 Luis Ramirez
 Madison Martin
 Manasi Phadnis
@@ -95,6 +97,7 @@ Susan Paykin
 Tanvi Gandhi
 Tao Feng
 Taylor Hoyt
+Teodora Szasz
 Thomas Barry
 Wei Liang
 Wen Han Chiu
