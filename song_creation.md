@@ -97,7 +97,7 @@ Susan Paykin
 Tanvi Gandhi
 Tao Feng
 Taylor Hoyt
-Teodora Szasz
+Teodora Szasz, You deserve it
 Thomas Barry
 Wei Liang
 Wen Han Chiu
