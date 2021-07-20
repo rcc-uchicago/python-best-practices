@@ -1,6 +1,12 @@
 # Be modular!!
 def square(n):
-    result = n *  n
+    result = n * n
     return result
 
-print(square(3))
+
+def main():
+    print(square(3))
+
+
+if __name__ == "__main__":
+    main()
