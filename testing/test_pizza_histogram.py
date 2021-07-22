@@ -9,13 +9,12 @@ from pizza_histogram import aggregate_orders
 
 
 class TestPizzaHistogram:
-    
-    
+
     def test_aggregate_orders(self):
         pizza_orders = [
             ("pepperoni", 2),
             ("hawaiian", 7),
-            ("pepperoni",8),
+            ("pepperoni", 8),
             ("cheese", 2),
             ("hawaiian", 20),
             ("sausage", 5),
@@ -32,9 +31,8 @@ class TestPizzaHistogram:
             "bacon": 2,
             }
 
-        if( self.dicts_differ(hist, expected) ):
+        if(self.dicts_differ(hist, expected)):
             pytest.fail()
-
 
     def test_aggregate_orders_empty(self):
         pizza_orders = []
@@ -43,9 +41,8 @@ class TestPizzaHistogram:
 
         expected = {}
 
-        if( self.dicts_differ(hist, expected) ):
+        if(self.dicts_differ(hist, expected)):
             pytest.fail()
-
 
     def test_aggregate_orders_repeated(self):
         pizza_orders = [
@@ -59,9 +56,8 @@ class TestPizzaHistogram:
             "pepperoni": 17,
             }
 
-        if( self.dicts_differ(hist, expected) ):
+        if(self.dicts_differ(hist, expected)):
             pytest.fail()
-
 
     def test_aggregate_orders_disjoint(self):
         pizza_orders = [
@@ -77,11 +73,10 @@ class TestPizzaHistogram:
             "anchovies": 7,
             }
 
-        if( self.dicts_differ(hist, expected) ):
+        if(self.dicts_differ(hist, expected)):
             pytest.fail()
 
-
-    def dicts_differ(self,dict1, dict2):
+    def dicts_differ(self, dict1, dict2):
         if len(dict1) != len(dict2):
             return True
 
@@ -90,5 +85,5 @@ class TestPizzaHistogram:
                 return True
             elif dict1[key] != dict2[key]:
                 return True
-        
+
         return False
