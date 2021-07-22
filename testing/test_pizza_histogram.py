@@ -21,7 +21,7 @@ class TestPizzaHistogram:
             ("sausage", 5),
             ("cheese", 10),
             ("bacon", 2)]
-        
+
         hist = aggregate_orders(pizza_orders)
 
         expected = {
@@ -32,7 +32,52 @@ class TestPizzaHistogram:
             "bacon": 2,
             }
 
-        if( self.dicts_differ(hist, expected)):
+        if( self.dicts_differ(hist, expected) ):
+            pytest.fail()
+
+
+    def test_aggregate_orders_empty(self):
+        pizza_orders = []
+
+        hist = aggregate_orders(pizza_orders)
+
+        expected = {}
+
+        if( self.dicts_differ(hist, expected) ):
+            pytest.fail()
+
+
+    def test_aggregate_orders_repeated(self):
+        pizza_orders = [
+            ("pepperoni", 2),
+            ("pepperoni", 8),
+            ("pepperoni", 7)]
+
+        hist = aggregate_orders(pizza_orders)
+
+        expected = {
+            "pepperoni": 17,
+            }
+
+        if( self.dicts_differ(hist, expected) ):
+            pytest.fail()
+
+
+    def test_aggregate_orders_disjoint(self):
+        pizza_orders = [
+            ("pepperoni", 2),
+            ("pineapple", 8),
+            ("anchovies", 7)]
+
+        hist = aggregate_orders(pizza_orders)
+
+        expected = {
+            "pepperoni": 2,
+            "pineapple": 8,
+            "anchovies": 7,
+            }
+
+        if( self.dicts_differ(hist, expected) ):
             pytest.fail()
 
 
