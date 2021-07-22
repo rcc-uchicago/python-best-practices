@@ -4,7 +4,7 @@ import sys
 parent_dir = os.path.join(os.path.dirname(__file__), '..')
 sys.path.insert(0, os.path.abspath(parent_dir))
 
-from pizza_histogram import *
+from pizza_histogram import aggregate_orders
 
 
 class TestPizzaHistogram:
@@ -21,5 +21,5 @@ class TestPizzaHistogram:
             ("cheese", 10),
             ("bacon", 2)]
         
-        hist = pizza_histogram.aggregate_orders(pizza_orders)
+        hist = aggregate_orders(pizza_orders)
         
