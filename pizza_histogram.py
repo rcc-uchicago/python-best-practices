@@ -1,22 +1,21 @@
 import matplotlib.pyplot as plt
 
-o = [("pepperoni", 2), ("hawaiian", 7), ("pepperoni",8), ("cheese", 2), ("hawaiian", 20), ("sausage", 5), ("cheese", 10), ("bacon", 2)]
+pizza_orders = [("pepperoni", 2), ("hawaiian", 7), ("pepperoni",8), ("cheese", 2), ("hawaiian", 20), ("sausage", 5), ("cheese", 10), ("bacon", 2)]
 
 
 '''
 
 '''
-d = {}
-for i in o:
-    if i[0] in d.keys():
-        d[i[0]] += i[1]
+hist = {}
+for pizza_type, num_orders in pizza_orders:
+    if pizza_type in hist.keys():
+        hist[pizza_type] += num_orders
     else:
+        hist[pizza_type] = num_orders
 
-        d[i[0]] = i[1]
-
-for k, v in d.items():
-    print("{}: {}".format(k, v))
+for pizza, num_order in hist.items():
+    print("{}: {}".format(pizza, num_order))
 
 
-plt.bar(list(d.keys()), d.values())
+plt.bar(list(hist.keys()), hist.values())
 plt.show()
