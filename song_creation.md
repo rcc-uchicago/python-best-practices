@@ -92,7 +92,7 @@ Shafi Azam
 Shi-Ning Sun
 Shiyin Jiao
 Shuqiong Zhao
-Simin Jin
+Simin Jin, yes
 Susan Paykin
 Tanvi Gandhi
 Tao Feng
