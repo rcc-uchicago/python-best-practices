@@ -1,6 +1,7 @@
 Name                      | Poem
 --------------------------|-------------------------------
 Advait Ganapathy |
+Advait Ganapathy |
 Ahmed Elnaggar |
 Akshay Ratnawat |
 Aleksandr Lykhin |
@@ -10,15 +11,17 @@ Anastasia Bernat |
 Anchita Addhya |
 Andrea Watson |
 Andrew Leonard |
+Anjali Das |
 Anshuman Pal |
+Asha Makwana |
+Austin Sky |
 Austin Sky |
 Ava Waggett |
-Benjamin Rose |
+Ben Rose |
 Blair Vorsatz |
 Bowei Kang |
 Brian Petersen |
 Bryan Brickman |
-Callista Christ | the 21st night of September
 Cassandra Manrique |
 Chandler Haxton |
 Curtis Zhuang |
@@ -28,50 +31,58 @@ Dimitrios Tanoglidis |
 Donghyun Kang |
 Eman Shahzad |
 Emily Chen |
-Eric Hoy |
 Eric Van Camp |
+Eric Hoy |
 Felicia Hou |
 Fritz Ratnasamy |
 Grant Harris |
 Hailu Kong |
-Heidi  Hendrickson |
+Heidi Hendrickson |
 Ian Hammock |
-Irina Cristali |
 Irina Zhuravleva |
+Irina Cristali |
+Jainam Mehta |
 Jared Pollard |
 Jasmine Pan |
+Jay Pittman |
 Jinghua Ou |
 Jingyu Zhang |
 Jonathan Kim |
-Jorge Arias, hello |
-Joshua Kim |
+Jorge Arias |
 Joshua Foster |
+Joshua Kim |
 Kaihua Ding |
 Kaining Hu |
 Ken Rata |
+Kristi Angel |
 Kyla Mullaney |
 Leticia Stock |
 Letitia Ho |
 Lin Gui |
+Lingyuan Meng |
+Liqing Li |
 Louise Heelan |
 Louise Wang |
-Luis Ibanez |
 Luis Ramirez |
-Madison Martin |
+Madison  Martin |
 Manasi Phadnis |
 Mandy Chen |
+Manickam Umasuthan |
 Mark Lewis |
 Martin Falk |
 Maryn Carlson |
+Mauricio Miranda |
 Max Bogan |
 Maya Ordonez |
 Megan Barnett |
 Michaela Klimova |
 Michelle Nguyen |
+Mien Nguyen |
 Mike Jones |
 Milica Medved |
 Minhui Chen |
 Mohammad Shaheryar Furqan |
+Namitha Shaji |
 Nasim Mirzajani |
 Nelson Ramos Ruballos |
 Nicolais Torres-Echeverry |
@@ -81,12 +92,15 @@ Oishee Chakrabarti |
 Oliver Tang |
 Peter Ryan |
 Phillip Betts |
+Phillip Lo |
+Praveen Sundaresan Ramesh |
 Priyanka Karekar |
 Qi Zhan |
 Renee Fonseca |
-Rob VanDusen |
+Robert Van |
 Robert Volgman |
 Robin Li |
+Rose Sfeir |
 Sabarish Shankar |
 Satya Aduri |
 Senling Shu |
@@ -95,11 +109,11 @@ Shi-Ning Sun |
 Shiyin Jiao |
 Shuqiong Zhao |
 Simin Jin |
+Sindhusree Aita |
 Susan Paykin |
 Tanvi Gandhi |
 Tao Feng |
 Taylor Hoyt |
-Teodora Szasz | You deserve it
 Thomas Barry |
 Wei Liang |
 Wen Han Chiu |
@@ -110,119 +124,7 @@ Yiheng wu |
 Yiming Zhong |
 Yu Xiao |
 Yueyang Zhong |
+Yuge Li |
 Zachary Hope |
 Zachary Posnik |
 Zuguang Gao |
-Advait Ganapathy
-Ahmed Elnaggar
-Akshay Ratnawat
-Aleksandr Lykhin
-Alexandra Lamtyugina
-Alexandria Im
-Anastasia Bernat
-Anchita Addhya
-Andrea Watson
-Andrew Leonard
-Anshuman Pal
-Austin Sky
-Ava Waggett
-Benjamin Rose
-Blair Vorsatz
-Bowei Kang
-Brian Petersen
-Bryan Brickman
-Callista Christ, the 21st night of September
-Cassandra Manrique
-Chandler Haxton
-Curtis Zhuang
-Daniel Beckett
-Danijela Mojsilovic
-Dimitrios Tanoglidis
-Donghyun Kang
-Eman Shahzad
-Emily Chen
-Eric Hoy
-Eric Van Camp
-Felicia Hou
-Fritz Ratnasamy
-Grant Harris
-Hailu Kong
-Heidi  Hendrickson
-Ian Hammock
-Irina Cristali
-Irina Zhuravleva
-Jared Pollard
-Jasmine Pan
-Jinghua Ou
-Jingyu Zhang
-Jonathan Kim
-Jorge Arias, hello
-Joshua Kim
-Joshua Foster
-Kaihua Ding
-Kaining Hu
-Ken Rata
-Kyla Mullaney
-Leticia Stock
-Letitia Ho
-Lin Gui
-Louise Heelan
-Louise Wang
-Luis Ibanez
-Luis Ramirez
-Madison Martin
-Manasi Phadnis
-Mandy Chen
-Mark Lewis
-Martin Falk
-Maryn Carlson
-Max Bogan
-Maya Ordonez
-Megan Barnett
-Michaela Klimova
-Michelle Nguyen
-Mike Jones
-Milica Medved
-Minhui Chen
-Mohammad Shaheryar Furqan
-Nasim Mirzajani
-Nelson Ramos Ruballos
-Nicolais Torres-Echeverry
-Nikhil Shakkarwar
-Niksa Praljak
-Oishee Chakrabarti
-Oliver Tang
-Peter Ryan
-Phillip Betts
-Priyanka Karekar
-Qi Zhan
-Renee Fonseca
-Rob VanDusen
-Robert Volgman
-Robin Li
-Sabarish Shankar
-Satya Aduri
-Senling Shu
-Shafi Azam
-Shi-Ning Sun
-Shiyin Jiao
-Shuqiong Zhao
-Simin Jin, yes
-Susan Paykin
-Tanvi Gandhi
-Tao Feng
-Taylor Hoyt
-Teodora Szasz, You deserve it
-Thomas Barry
-Wei Liang
-Wen Han Chiu
-Xinran Lian
-Xinyou Ma
-Yifan Gao
-Yiheng wu
-Yiming Zhong
-Yu Xiao
-Yueyang Zhong
-Zachary Hope
-Zachary Posnik
-Zuguang Gao
