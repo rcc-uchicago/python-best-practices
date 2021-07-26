@@ -41,7 +41,7 @@ Jasmine Pan
 Jinghua Ou
 Jingyu Zhang
 Jonathan Kim
-Jorge Arias
+Jorge Arias, hello
 Joshua Kim
 Joshua Foster
 Kaihua Ding
