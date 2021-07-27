@@ -71,7 +71,7 @@ Madison  Martin |
 Manasi Phadnis |
 Mandy Chen |
 Manickam Umasuthan |
-Mark Lewis |
+Mark Lewis | Always be yourself, unless you can be huge. Then be huge.
 Martin Falk |
 Maryn Carlson |
 Mauricio Miranda |
