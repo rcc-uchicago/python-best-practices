@@ -37,7 +37,7 @@ Eric Van Camp |
 Eric Hoy |
 Felicia Hou |
 Fritz Ratnasamy |
-Grant Harris |
+Grant Harris | Remember, the sooner you get behind the more time you have to catch up.
 Hailu Kong |
 Heidi Hendrickson |
 Ian Hammock |
