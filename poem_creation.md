@@ -53,7 +53,7 @@ Jonathan Kim |
 Jorge Arias |
 Joshua Foster |
 Joshua Kim |
-Kaihua Ding |
+Kaihua Ding | woo hoo hoo woo, pizza
 Kaining Hu |
 Ken Rata |
 Kristi Angel |
@@ -86,7 +86,7 @@ Milica Medved |
 Minhui Chen |
 Mohammad Shaheryar Furqan |
 Namitha Shaji |
-Nasim Mirzajani |fake it till you make it
+Nasim Mirzajani |
 Nelson Ramos Ruballos |
 Nicolais Torres-Echeverry |
 Nikhil Shakkarwar |
