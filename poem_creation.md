@@ -17,7 +17,7 @@ Asha Makwana |
 Austin Sky |
 Austin Sky |
 Ava Waggett |
-Ayush Raj |
+Ayush Raj | We're all in this together;
 Ben Rose |
 Blair Vorsatz |
 Bowei Kang |
