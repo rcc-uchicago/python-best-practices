@@ -27,7 +27,7 @@ Callista Christ |
 Cassandra Manrique |
 Chandler Haxton |Shoot for the moon; even if you miss, you'll land amongst the stars
 Curtis Zhuang |
-Daniel Beckett |
+Daniel Beckett | Birds are important.
 Danijela Mojsilovic |
 Dimitrios Tanoglidis | a persons's reach should exceed their grasp
 Donghyun Kang |
