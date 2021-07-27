@@ -57,7 +57,7 @@ Kaihua Ding |
 Kaining Hu |
 Ken Rata |
 Kristi Angel |
-Kyla Mullaney |
+Kyla Mullaney | You can do it
 Leticia Stock |
 Letitia Ho |
 Lin Gui |
