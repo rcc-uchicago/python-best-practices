@@ -106,7 +106,7 @@ Robin Li |
 Roger Engelmann |
 Rose Sfeir |
 Sabarish Shankar |
-Sabina Hartnett |
+Sabina Hartnett | Keep on singing - you're gunna be a star someday (Helen Reddy) :) 
 Satya Aduri |
 Senling Shu |
 Shafi Azam |
