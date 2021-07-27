@@ -7,7 +7,7 @@ Akshay Ratnawat |
 Aleksandr Lykhin |
 Alexandra Lamtyugina |
 Alexandria Im |
-Anastasia Bernat |
+Anastasia Bernat | from "The hut where the moon stays" by Monchoachi, "What is more catastrophic than writing and the earth?"
 Anchita Addhya |
 Andrea Watson |
 Andrew Leonard |
