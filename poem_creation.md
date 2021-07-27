@@ -9,7 +9,7 @@ Alexandra Lamtyugina |
 Alexandria Im |
 Anastasia Bernat | from "The hut where the moon stays" by Monchoachi, "What is more catastrophic than writing and the earth?"
 Anchita Addhya |
-Andrea Watson |
+Andrea Watson | Hello world!
 Andrew Leonard |
 Anjali Das |
 Anshuman Pal |
@@ -27,7 +27,7 @@ Callista Christ |
 Cassandra Manrique |
 Chandler Haxton |Shoot for the moon; even if you miss, you'll land amongst the stars
 Curtis Zhuang |
-Daniel Beckett |
+Daniel Beckett | Birds are important.
 Danijela Mojsilovic |
 Dimitrios Tanoglidis | a persons's reach should exceed their grasp
 Donghyun Kang |
@@ -37,7 +37,7 @@ Eric Van Camp | The best time to start is now!
 Eric Hoy |
 Felicia Hou |
 Fritz Ratnasamy |
-Grant Harris |
+Grant Harris | Remember, the sooner you get behind the more time you have to catch up.
 Hailu Kong |
 Heidi Hendrickson |
 Ian Hammock |
@@ -81,7 +81,7 @@ Megan Barnett |
 Michaela Klimova |
 Michelle Nguyen |
 Mien Nguyen |
-Mike Jones |
+Mike Jones | Who?
 Milica Medved |
 Minhui Chen |
 Mohammad Shaheryar Furqan |
@@ -95,7 +95,7 @@ Oishee Chakrabarti | Ad astra per aspera;
 Oliver Tang |
 Peter Ryan |
 Phillip Betts |
-Phillip Lo |
+Phillip Lo | Je voudrais une baguette, s'il vous plait
 Praveen Sundaresan Ramesh |
 Priyanka Karekar |
 Qi Zhan |
