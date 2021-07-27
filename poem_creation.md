@@ -67,7 +67,7 @@ Louise Heelan |
 Louise Wang |
 Luis Ibanez |
 Luis Ramirez |
-Madison  Martin |
+Madison  Martin | Problems in the world are opportunities for change
 Manasi Phadnis |
 Mandy Chen |
 Manickam Umasuthan |
