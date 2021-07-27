@@ -34,7 +34,7 @@ Donghyun Kang |
 Eman Shahzad |
 Emily Chen |
 Eric Van Camp |
-Eric Hoy |
+Eric Hoy | Be Inspired
 Felicia Hou |
 Fritz Ratnasamy |
 Grant Harris |
