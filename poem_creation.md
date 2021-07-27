@@ -23,6 +23,7 @@ Blair Vorsatz |
 Bowei Kang |
 Brian Petersen |
 Bryan Brickman |
+Callista Christ |
 Cassandra Manrique |
 Chandler Haxton |
 Curtis Zhuang |
@@ -64,6 +65,7 @@ Lingyuan Meng |
 Liqing Li |
 Louise Heelan |
 Louise Wang |
+Luis Ibanez |
 Luis Ramirez |
 Madison  Martin |
 Manasi Phadnis |
