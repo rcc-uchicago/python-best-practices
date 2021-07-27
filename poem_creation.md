@@ -29,7 +29,7 @@ Chandler Haxton |
 Curtis Zhuang |
 Daniel Beckett |
 Danijela Mojsilovic |
-Dimitrios Tanoglidis |
+Dimitrios Tanoglidis | a persons's reach should exceed their grasp
 Donghyun Kang |
 Eman Shahzad |
 Emily Chen |
