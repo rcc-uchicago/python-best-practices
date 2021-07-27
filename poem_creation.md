@@ -91,7 +91,7 @@ Nelson Ramos Ruballos |
 Nicolais Torres-Echeverry |
 Nikhil Shakkarwar |
 Niksa Praljak |
-Oishee Chakrabarti | Ad astra per aspera;  
+Oishee Chakrabarti |
 Oliver Tang |
 Peter Ryan |
 Phillip Betts |
@@ -125,7 +125,7 @@ Wei Liang |
 Wen Han Chiu |
 Xinran Lian |
 Xinyou Ma |
-Yifan Gao |
+Yifan Gao | Water and Ocean
 Yiheng wu |
 Yiming Zhong |
 Yu Xiao |
