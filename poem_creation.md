@@ -33,7 +33,7 @@ Dimitrios Tanoglidis |
 Donghyun Kang |
 Eman Shahzad |
 Emily Chen |
-Eric Van Camp |
+Eric Van Camp | The best time to start is now!
 Eric Hoy |
 Felicia Hou |
 Fritz Ratnasamy |
