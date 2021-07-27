@@ -119,7 +119,7 @@ Susan Paykin |
 Tanvi Gandhi |
 Tao Feng |
 Taylor Hoyt |
-Teodora Szasz | You are halfway there, believe it;
+Teodora Szasz | You are halfway there;
 Thomas Barry |
 Wei Liang |
 Wen Han Chiu |
