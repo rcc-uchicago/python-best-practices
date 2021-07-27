@@ -8,7 +8,7 @@ Aleksandr Lykhin |
 Alexandra Lamtyugina |
 Alexandria Im |
 Anastasia Bernat |
-Anchita Addhya |
+Anchita Addhya | there are no mistakes only happy accidents
 Andrea Watson |
 Andrew Leonard |
 Anjali Das |
