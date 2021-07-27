@@ -51,7 +51,7 @@ Jinghua Ou |
 Jingyu Zhang |
 Jonathan Kim |
 Jorge Arias |
-Joshua Foster |
+Joshua Foster |Live, laugh, love, cringe
 Joshua Kim |
 Kaihua Ding |
 Kaining Hu |
