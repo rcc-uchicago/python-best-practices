@@ -112,7 +112,7 @@ Senling Shu |
 Shafi Azam |
 Shi-Ning Sun |
 Shiyin Jiao |
-Shuqiong Zhao |
+Shuqiong Zhao | Life is a comedy. Don’t live it with tears.
 Simin Jin |
 Sindhusree Aita |
 Susan Paykin |
