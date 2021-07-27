@@ -124,7 +124,7 @@ Teodora Szasz | You are halfway there;
 Thomas Barry |
 Wei Liang |
 Wen Han Chiu |
-Xinran Lian |
+Xinran Lian | Big brother is watching you.
 Xinyou Ma |
 Yifan Gao |
 Yiheng wu | hi man
