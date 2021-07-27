@@ -4,7 +4,7 @@ Advait Ganapathy |
 Advait Ganapathy |
 Ahmed Elnaggar |
 Akshay Ratnawat |
-Aleksandr Lykhin |
+Aleksandr Lykhin | Konek-Gorbunok
 Alexandra Lamtyugina |
 Alexandria Im |
 Anastasia Bernat |
