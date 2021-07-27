@@ -95,7 +95,7 @@ Oishee Chakrabarti | Ad astra per aspera;
 Oliver Tang |
 Peter Ryan |
 Phillip Betts |
-Phillip Lo |
+Phillip Lo | Je voudrais une baguette, s'il vous plait
 Praveen Sundaresan Ramesh |
 Priyanka Karekar |
 Qi Zhan |
