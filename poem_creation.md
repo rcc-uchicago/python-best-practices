@@ -18,7 +18,7 @@ Austin Sky |
 Austin Sky |
 Ava Waggett |
 Ayush Raj |
-Ben Rose |
+Ben Rose | You deserve to be happy
 Blair Vorsatz |
 Bowei Kang |
 Brian Petersen |
