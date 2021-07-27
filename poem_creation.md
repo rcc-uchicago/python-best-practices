@@ -25,7 +25,7 @@ Brian Petersen |
 Bryan Brickman |
 Callista Christ |
 Cassandra Manrique |
-Chandler Haxton |
+Chandler Haxton |Shoot for the moon; even if you miss, you'll land amongst the stars
 Curtis Zhuang |
 Daniel Beckett |
 Danijela Mojsilovic |
