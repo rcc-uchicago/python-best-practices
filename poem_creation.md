@@ -27,7 +27,7 @@ Callista Christ |
 Cassandra Manrique |
 Chandler Haxton |
 Curtis Zhuang |
-Daniel Beckett |
+Daniel Beckett | Birds are important.
 Danijela Mojsilovic |
 Dimitrios Tanoglidis |
 Donghyun Kang |
