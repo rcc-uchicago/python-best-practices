@@ -1,21 +1,21 @@
 import matplotlib.pyplot as plt
 
-o = [("pepperoni", 2), ("hawaiian", 7), ("pepperoni",8), ("cheese", 2), ("hawaiian", 20), ("sausage", 5), ("cheese", 10), ("bacon", 2)]
+pizza_orders = [("pepperoni", 2), ("hawaiian", 7), ("pepperoni",8), ("cheese", 2), ("hawaiian", 20), ("sausage", 5), ("cheese", 10), ("bacon", 2)]
 
 
 '''
 '''
-d = {}
-for i in o:
-    if i[0] in d.keys():
-        d[i[0]] += i[1]
+pizza_dict = {}
+for order in pizza_orders:
+
+    if order[0] in pizza_dict.keys():
+        pizza_dict[order[0]] += order[1]
     else:
+        pizza_dict[order[0]] = order[1]
 
-        d[i[0]] = i[1]
-
-for k, v in d.items():
-    print("{}: {}".format(k, v))
+for pizza_type, count in pizza_dict.items():
+    print("{}: {}".format(pizza_type, count))
 
 
-plt.bar(list(d.keys()), d.values())
+plt.bar(list(pizza_dict.keys()), pizza_dict.values())
 plt.show()
