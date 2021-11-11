@@ -13,9 +13,14 @@ for pizza in pizzas:
 
         hist[pizza[0]] = pizza[1]
 
-for k, v in hist.items():
-    print("{}: {}".format(k, v))
+def print_dict(dict):
+    for k, v in dict.items():
+        print("{}: {}".format(k, v))
 
+def visualize(dict):
+    #visualize items in dictionary with barplot
+    plt.bar(list(dict.keys()), dict.values())
+    plt.show()
 
-plt.bar(list(hist.keys()), hist.values())
-plt.show()
+print_dict(hist)
+visualize(hist)
