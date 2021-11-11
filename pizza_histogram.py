@@ -1,12 +1,12 @@
 import matplotlib.pyplot as plt
 
-o = [("pepperoni", 2), ("hawaiian", 7), ("pepperoni",8), ("cheese", 2), ("hawaiian", 20), ("sausage", 5), ("cheese", 10), ("bacon", 2)]
+pizza_counts = [("pepperoni", 2), ("hawaiian", 7), ("pepperoni",8), ("cheese", 2), ("hawaiian", 20), ("sausage", 5), ("cheese", 10), ("bacon", 2)]
 
 
 '''
 '''
 d = {}
-for i in o:
+for i in pizza_counts:
     if i[0] in d.keys():
         d[i[0]] += i[1]
     else:
