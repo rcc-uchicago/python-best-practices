@@ -5,17 +5,17 @@ pizza type = i
 
 '''
 '''
-d = {}
+hist = {}
 for i in pizza order:
-    if i[pizza order] in d.keys():
-        d[i[pizza order]] += i[1]
+    if i[pizza order] in hist.keys():
+        hist[i[pizza order]] += i[1]
     else:
 
-        d[i[pizza order]] = i[1]
+        hist[i[pizza order]] = i[1]
 
-for k, v in d.items():
+for k, v in hist.items():
     print("{}: {}".format(k, v))
 
 
-plt.bar(list(d.keys()), d.values())
+plt.bar(list(hist.keys()), hist.values())
 plt.show()
